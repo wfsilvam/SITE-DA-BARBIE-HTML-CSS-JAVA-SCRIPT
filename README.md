@@ -1,0 +1,1 @@
+💻 Projeto Este projeto é um tutorial que ensina a recriar o site do tempo da Barbie com HTML e CSS. Link do site oficial: barbiefilme.com.br. 🚀 Tecnologias HTML CSS 📔 Conhecimentos envolvidos Uso semântico do HTML Animação com imagens Vários níveis do css no :root Uso do CSS Flexbox Efeitos com a propriedade transform
